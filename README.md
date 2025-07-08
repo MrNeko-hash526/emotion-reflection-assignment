@@ -17,6 +17,9 @@ A clean and responsive web application that analyzes user input text and reflect
 cd frontend
 npm install
 npm run dev
+```
+## 🚀 Backend Setup
+```bash
 cd backend
 pip install -r requirements.txt
 python app.py
